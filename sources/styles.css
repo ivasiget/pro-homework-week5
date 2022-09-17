@@ -1,0 +1,71 @@
+body {
+  margin: 20px auto;
+  max-width: 800px;
+  font-family: "Baskervville", serif;
+  color: #142d4c;
+}
+h5 {
+  font-weight: bold;
+  font-size: 25px;
+}
+.container {
+  background: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
+  max-width: 100%;
+  border-radius: 10px;
+  border: 1px solid pink;
+}
+.cityForm {
+  margin-top: 5px;
+}
+
+img {
+  max-width: 200px;
+}
+.submit {
+  margin-top: 9px;
+  display: block;
+}
+
+.dateTime {
+  margin-top: 30px;
+
+  font-size: 20px;
+}
+.city {
+  font-weight: bold;
+  font-size: 30px;
+}
+.temperature {
+  font-size: 100px;
+}
+a {
+  color: #000;
+  text-decoration: none;
+  font-size: 20px;
+  position: relative;
+  top: -30px;
+}
+.tempDesc {
+  margin-top: 50px;
+  font-size: 20px;
+}
+.description {
+  font-size: 30px;
+}
+.forecastName {
+  font-size: 40px;
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+.card {
+  background: linear-gradient(
+    359.3deg,
+    rgb(196, 214, 252) 1%,
+    rgba(187, 187, 187, 0) 70.9%
+  );
+}
+.forecast {
+  padding-bottom: 20px;
+  text-align: center;
+  font-size: 20px;
+}
