@@ -38,8 +38,15 @@ img {
 .temperature {
   font-size: 100px;
 }
-a {
-  color: #000;
+.celsius {
+  color: #142d4c;
+  text-decoration: none;
+  font-size: 20px;
+  position: relative;
+  top: -30px;
+}
+.fahrenheit {
+  color: #142d4c;
   text-decoration: none;
   font-size: 20px;
   position: relative;
@@ -68,4 +75,8 @@ a {
   padding-bottom: 20px;
   text-align: center;
   font-size: 20px;
+}
+.linkGithub {
+  color: #142d4c;
+  text-decoration: none;
 }
